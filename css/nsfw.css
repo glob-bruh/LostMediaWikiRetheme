@@ -1,0 +1,23 @@
+body {
+	color: white;
+	-webkit-text-stroke: 0.25px black;
+}
+
+#contentwrapper {
+	background-image: linear-gradient(black, hotpink);
+}
+
+#firstHeading {
+	color: hotpink;
+}
+
+div.mw-category-group > ul > li > a {
+	color: red;
+	background-color: black;
+}
+
+div.mw-category-group > ul > li > a:hover {
+	color: black;
+	background-color: white;
+	transition-duration: 500;
+}

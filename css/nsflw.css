@@ -1,0 +1,25 @@
+body {
+	color: white;
+}
+
+#contentwrapper {
+	background-color: black;
+}
+
+#firstHeading {
+	background-image: linear-gradient(hotpink, red);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+div.mw-category-group > ul > li > a {
+	color: red;
+	background-color: black;
+}
+
+div.mw-category-group > ul > li > a:hover {
+	color: black;
+	background-color: white;
+	transition-duration: 500;
+}

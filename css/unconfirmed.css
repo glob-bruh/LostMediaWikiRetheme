@@ -1,0 +1,22 @@
+body {
+	color: white;
+}
+
+#contentwrapper {
+	background-image: linear-gradient(purple, dimgray);
+}
+
+#firstHeading {
+	color: white;
+}
+
+div.mw-category-group > ul > li > a {
+	color: red;
+	background-color: black;
+}
+
+div.mw-category-group > ul > li > a:hover {
+	color: black;
+	background-color: white;
+	transition-duration: 500;
+}
