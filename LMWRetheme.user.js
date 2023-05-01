@@ -6,8 +6,8 @@
 // @grant       none
 // @match       https://lostmediawiki.com/*
 // @namespace   https://github.com/
-// @downloadURL https://github.com/glob-bruh/???
-// @updateURL   https://github.com/glob-bruh/???
+// @downloadURL https://github.com/glob-bruh/LostMediaWikiRetheme/raw/main/LMWRetheme.user.js
+// @updateURL   https://github.com/glob-bruh/LostMediaWikiRetheme/raw/main/LMWRetheme.user.js
 // @author      https://github.com/glob-bruh/LostMediaWikiRetheme/graphs/contributors
 // @homepage    https://github.com/glob-bruh/LostMediaWikiRetheme
 // @supportURL  https://github.com/glob-bruh/LostMediaWikiRetheme/issues
@@ -48,7 +48,7 @@ function LoadCSS (file) {
       link.id   = cssId;
       link.rel  = 'stylesheet';
       link.type = 'text/css';
-      link.href = 'http://127.0.0.1:8080/' + file;
+      link.href = 'https://glob-bruh.github.io/LostMediaWikiRetheme/css/' + file;
       link.media = 'all';
       head.appendChild(link);
       // https://stackoverflow.com/a/577002

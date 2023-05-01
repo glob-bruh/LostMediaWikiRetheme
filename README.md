@@ -7,7 +7,7 @@ This userscript will adaptively change how pages look on the Lost Media Wiki bas
 ## Setup: 
 
 1) Find a userscript manager, such as Tampermonkey, Greasemonkey, or Violentmonkey. 
-2) Visit [the raw version of the JavaScript file](http://example.com) in this repo.
+2) Visit [the raw version of the JavaScript file](https://github.com/glob-bruh/LostMediaWikiRetheme/raw/main/LMWRetheme.user.js) in this repo.
 3) An extension page should open allowing you to install the script. 
 
 OR alternatively, you can install from link. 
