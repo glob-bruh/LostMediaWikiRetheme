@@ -1,0 +1,90 @@
+ 
+th {
+    background-color: #033806;
+}
+
+td {
+    background-color: black;
+    color: lightgray;
+}
+
+.date > .time {
+    background-color: darkgray !important;
+    color: black !important;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+}
+
+.post-method {
+    color: red;
+    font-weight: bold;
+}
+
+.personal-text {
+    background-color: green;
+    border-radius: 10px;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
+
+.button, .reply-button, .guest-prompt {
+    background-color: darkgreen !important;
+    border-color: transparent !important;
+}
+
+.mini-profile {
+    background-color: #032806 !important;
+    border-color: transparent !important;
+    color: darkgreen !important;
+}
+
+.mini-profile > a {
+    color: lightgreen !important;
+}
+
+.mini-profile > .info {
+    color: white !important;
+}
+
+.legend > div > table span{
+    color: white;
+}
+
+.control-bar {
+    background-color: darkgreen !important;
+}
+
+.cap-bottom {
+    background-color: #033806 !important;
+}
+
+.quote_body {
+    background-color: darkgray !important;
+    border-color: transparent !important;
+}
+
+#banner {
+    background-color: #030806;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+  
+#banner > a > img {
+    background-color: #033806;
+    padding: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 65px;
+}
+  
+#navigation-menu {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+#navigation-tree {
+    background-color: darkgreen;
+    border-color: transparent;
+    padding-bottom: 2.5px;
+}

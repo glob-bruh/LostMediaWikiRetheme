@@ -1,0 +1,19 @@
+body {
+	color: white;
+}
+
+#contentwrapper {
+	background-image: linear-gradient(purple, dimgray);
+}
+
+#firstHeading {
+	color: white;
+}
+
+#tweekiTOC #toc ul > li > ul {
+    border-color: purple;
+}
+
+.active{
+	background-color: purple;
+}

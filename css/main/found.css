@@ -1,0 +1,19 @@
+body {
+	color: white;
+}
+
+#contentwrapper {
+	background-image: linear-gradient(green, dimgray);
+}
+
+#firstHeading {
+	color: black;
+}
+
+#tweekiTOC #toc ul > li > ul {
+    border-color: green;
+}
+
+.active{
+	background-color: green;
+}

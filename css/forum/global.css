@@ -1,0 +1,37 @@
+ 
+th {
+    background-color: #033806;
+}
+
+td {
+    background-color: black;
+    color: lightgray;
+}
+
+.mini-profile {
+    background-color: #032806 !important;
+    border-color: transparent !important;
+}
+
+.legend > div > table span{
+    color: white;
+}
+
+#banner {
+    background-color: #030806;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+  
+#banner > a > img {
+    background-color: #033806;
+    padding: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 65px;
+}
+  
+#navigation-menu {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}

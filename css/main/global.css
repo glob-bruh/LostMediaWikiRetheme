@@ -1,0 +1,62 @@
+
+a {
+    color: limegreen;
+}
+
+a:hover {
+    color: white;
+    transition-duration: 0.5s;
+}
+
+div.mw-category-group > ul > li > a {
+	background-color: black;
+}
+
+div.mw-category-group > ul > li > a:hover {
+	color: black;
+	background-color: white;
+	transition-duration: 500;
+}
+
+#sidebar-right {
+	background-color: transparent;
+}
+
+.card-body.bg-white {
+	background-color: transparent !important;
+}
+
+#infobox {
+	background-color: #0d0d0d;;
+	border-color: #0d0d0d;;
+	color: white;
+}
+
+#sidebar-left {
+	background-color: #0d0d0d;
+	border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+#toc {
+    padding-bottom: 14px;
+}
+
+.toctext {
+    padding-right: 10px;
+}
+
+.active{
+	border-radius: 4.5px;
+}
+
+.cs-comments {
+	background-color: black;
+	color: white;
+	border-radius: 15px;
+	padding: 10px;
+}
+
+.cs-comment-header{
+	color: black;
+}
